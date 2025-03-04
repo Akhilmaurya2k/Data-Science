@@ -1,18 +1,18 @@
 # 🖋️ Digital Handwritten Classifier
 
-🚀 Overview
+## 🚀 Overview
 This project implements a Digital Handwritten Classifier that recognizes handwritten digits using multiple machine learning models. It is built using Python and Streamlit, offering an interactive web-based interface for classification.
 
-❗ Problem Statement
+## ❗ Problem Statement
 Handwritten digit recognition is a crucial task in various domains, including postal mail sorting, bank check processing, and document digitization. This project aims to classify handwritten numbers efficiently using different machine learning techniques.
 
-🛠️ Features
+## 🛠️ Features
 ✅ Multi-Model Classification – Supports KNN, Logistic Regression, SVM, Decision Tree, and Random Forest.
 🖼️ Image Upload – Users can upload images in PNG, JPG, or JPEG formats.
 📊 Real-time Predictions – Provides instant classification results upon model selection.
 📉 Scalable Performance – Uses pre-trained models for optimized classification.
 
-🏗️ Tech Stack
+## 🏗️ Tech Stack
 🔹 Python
 🔹 Streamlit (Web App)
 🔹 NumPy (Data Processing)
@@ -20,7 +20,7 @@ Handwritten digit recognition is a crucial task in various domains, including po
 🔹 Pickle (Model Storage)
 🔹 PIL (Image Processing)
 
-📌 Classification Approaches
+## 📌 Classification Approaches
 1️⃣ K-Nearest Neighbors (KNN)
    - Predicts the class of an input image based on the closest neighbors.
 2️⃣ Logistic Regression
@@ -32,14 +32,14 @@ Handwritten digit recognition is a crucial task in various domains, including po
 5️⃣ Random Forest
    - An ensemble of decision trees for improved accuracy.
 
-📊 Results
+## 📊 Results
 - Allows users to select different models and see classification results instantly.
 - Provides an intuitive UI for easy interaction.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - Improve model accuracy with advanced deep learning techniques like CNN.
 - Optimize UI and performance for better user experience.
 - Expand dataset for more diverse handwriting styles.
 
-📜 License
+## 📜 License
 This project is open-source. Feel free to contribute! 📝✨
