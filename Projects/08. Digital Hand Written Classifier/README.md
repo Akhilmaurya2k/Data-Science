@@ -1,4 +1,4 @@
-🖋️ Digital Handwritten Classifier
+# 🖋️ Digital Handwritten Classifier
 
 🚀 Overview
 This project implements a Digital Handwritten Classifier that recognizes handwritten digits using multiple machine learning models. It is built using Python and Streamlit, offering an interactive web-based interface for classification.
