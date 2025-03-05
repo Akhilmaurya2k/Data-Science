@@ -15,7 +15,8 @@ This project follows multiple approaches to building and evaluating MLR models:
 ✅ Train the model using `statsmodels`  
 ✅ Perform manual feature selection based on **p-values** and **Variance Inflation Factor (VIF)**  
    - 🔹 Forward Feature Selection  
-   - 🔹 Backward Feature Selection  
+   - 🔹 Backward Feature Selection
+     
 ✅ Conduct residual analysis on train data  
 ✅ Make predictions on test data  
 ✅ Evaluate the model using **📉 Root Mean Squared Error (RMSE)** and **📊 R-squared (R²)**  
