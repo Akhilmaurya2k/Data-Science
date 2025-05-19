@@ -6,7 +6,7 @@ Explore the projects below! 🏆
 
 ## 📌 Project List  
 
-### 1️⃣ **Enhancing Search Engine Relevance Using Video Subtitles**  
+### 1️⃣ **Enhancing Search Engine Relevance Using Video Subtitles**  ## Coming Soon
 🔹 **Description:** Improves search engine relevance by leveraging video subtitles to provide more accurate and context-aware search results.  
 🔹 **Tech Stack:** NLP, Video Processing, Information Retrieval  
 
@@ -42,7 +42,5 @@ Explore the projects below! 🏆
 🔹 **Description:** A dashboard analyzing road safety data to assess accident-prone areas and risk factors.  
 🔹 **Tech Stack:** Data Visualization, Power BI/Tableau, Geospatial Analysis  
 
-## 📧 Contact  
-If you have any questions or suggestions, feel free to reach out! 🚀  
 
 
