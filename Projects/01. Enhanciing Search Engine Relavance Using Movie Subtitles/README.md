@@ -63,8 +63,7 @@ The application follows a straightforward pipeline:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone <Projects/01. Enhanciing Search Engine Relavance Using Movie Subtitles>
     ```
 
 2.  **Create a Virtual Environment and Activate It**:
