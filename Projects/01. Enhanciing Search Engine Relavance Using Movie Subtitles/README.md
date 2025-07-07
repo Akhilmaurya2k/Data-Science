@@ -4,6 +4,9 @@
 
 Cine Shazam is an interactive Streamlit web application designed to identify movies or TV shows based on recorded audio snippets of their dialogues. If you've ever had a scene stuck in your head and couldn't place the movie, Cine Shazam is here to help! It leverages a Retrieval Augmented Generation (RAG) system built with LangChain and OpenAI to match spoken scenes to its extensive database of subtitles.
 
+## UML Diagram
+* https://docs.google.com/presentation/d/1ztyXWKS6mlmJO6Z5T9N--0dEEGsyZBEgRrSkxKsPDQY/edit?usp=sharing
+
 ## 🌟 Key Features
 
 * 🎙️ **In-Browser Audio Recording**: Users can easily record audio snippets directly through the web interface.
