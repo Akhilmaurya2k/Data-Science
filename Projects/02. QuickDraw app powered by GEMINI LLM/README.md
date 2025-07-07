@@ -3,6 +3,9 @@
 ## Overview
 QuickDraw Clone is an interactive web application built using **Streamlit** that allows users to draw objects based on randomly generated words. The application uses **Google Gemini 1.5 LLM** for generating simple, drawable words and **Generative AI** to predict the objects drawn by users.
 
+## UML Diagaram
+https://docs.google.com/presentation/d/1cV-fhQHfYqONfXn_wHTzxwOO_ZeKUd_rAka6bB80E9k/edit?usp=sharing
+
 ## Key Features
 - **Word Generation**: The app uses **Google Gemini 1.5 LLM** to generate creative, simple words that are easy to draw.
 - **Drawing Interface**: Users can draw the selected word using a variety of drawing tools on an interactive canvas.
